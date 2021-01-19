@@ -1,14 +1,20 @@
-# FLUTTER_Codeigniter_Muaz-TA
-This is source code of my skripsweet~
+# Visit Kendari 2.0 Web App
 
-Mobile
+### Halaman Beranda
+![Screenshot (224)](https://user-images.githubusercontent.com/37838989/105047735-ab00eb80-5aa5-11eb-8f0e-d8ce795e77b1.png)
+###
+![Screenshot (226)](https://user-images.githubusercontent.com/37838989/105048254-50b45a80-5aa6-11eb-8f56-66bcc0b86c61.png)
+![Screenshot (227)](https://user-images.githubusercontent.com/37838989/105048222-472af280-5aa6-11eb-8765-6c86ea6ac02f.png)
+![Screenshot (228)](https://user-images.githubusercontent.com/37838989/105048196-3ed2b780-5aa6-11eb-8265-c94d7d744674.png)
 
-<img src="https://user-images.githubusercontent.com/28889777/70999150-cc114300-2113-11ea-9d93-0f0d83ce4c83.png"  width="200" /> <img src="https://user-images.githubusercontent.com/28889777/70997718-a171bb00-2110-11ea-81a6-de525e7db66c.png"  width="200" /> <img src="https://user-images.githubusercontent.com/28889777/70998789-0cbc8c80-2113-11ea-8d7f-533d5f493d79.png"  width="200" /> <img src="https://user-images.githubusercontent.com/28889777/70998863-34abf000-2113-11ea-8afb-2b4eedc2fd25.png"  width="200" />
+###
+### Halaman Destinasi
+![Screenshot (232)](https://user-images.githubusercontent.com/37838989/105048069-1a76db00-5aa6-11eb-928d-99539ca3d479.png)
 
-Web Sever
+###
+### Halaman Admin
+![Screenshot (231)](https://user-images.githubusercontent.com/37838989/105048078-1c409e80-5aa6-11eb-92c8-2ecdd384b0ce.png)
 
-<img src="https://user-images.githubusercontent.com/28889777/70999370-46da5e00-2114-11ea-82b4-97bbb64c68fa.png"  width="500" /> 
-<img src="https://user-images.githubusercontent.com/28889777/70999482-78532980-2114-11ea-923b-f8522d2c9694.PNG"  width="500" /> 
-<img src="https://user-images.githubusercontent.com/28889777/70999499-8143fb00-2114-11ea-947a-324fbba416f5.PNG"  width="500" /> 
-<img src="https://user-images.githubusercontent.com/28889777/70999514-86a14580-2114-11ea-8a98-0c6c0d364c62.PNG"  width="500" /> 
-<img src="https://user-images.githubusercontent.com/28889777/70999542-90c34400-2114-11ea-9088-82b88e94bec4.PNG"  width="500" /> 
+###
+### Halaman Admin
+![Screenshot (230)](https://user-images.githubusercontent.com/37838989/105048083-1cd93500-5aa6-11eb-95ef-e5c86a16b05f.png)
