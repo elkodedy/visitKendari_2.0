@@ -9,7 +9,7 @@
 
 ###
 ### Halaman Destinasi
-![Screenshot (232)](https://user-images.githubusercontent.com/37838989/105048069-1a76db00-5aa6-11eb-928d-99539ca3d479.png)
+![Screenshot (230)](https://user-images.githubusercontent.com/37838989/105048083-1cd93500-5aa6-11eb-95ef-e5c86a16b05f.png)
 
 ###
 ### Halaman Admin
@@ -17,4 +17,4 @@
 
 ###
 ### Halaman Admin
-![Screenshot (230)](https://user-images.githubusercontent.com/37838989/105048083-1cd93500-5aa6-11eb-95ef-e5c86a16b05f.png)
+![Screenshot (232)](https://user-images.githubusercontent.com/37838989/105048069-1a76db00-5aa6-11eb-928d-99539ca3d479.png)
